@@ -1,0 +1,16 @@
+{
+    "name": "example/package",
+    "description": "example",
+    "autoload": {
+        "psr-4": {
+            "Example\\Package\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Muntaka",
+            "email": "muntaka0202@gmail.com"
+        }
+    ],
+    "require": {}
+}
